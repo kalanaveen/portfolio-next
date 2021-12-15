@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base{
+    body{
+        @apply bg-[#0F1624] ;
+    }
+}
+
+@layer components{
+    .navbar{
+        @apply text-lg font-semibold text-gray-300 transition ease-in hover:text-gray-100 cursor-pointer
+    }
+    .socialIcons{
+        @apply transition ease-in transform  hover:scale-105 hover:opacity-80
+    }
+    .btn{
+        @apply text-white text-sm rounded-md bg-[#395694] p-2 opacity-80 hover:opacity-100
+    }
+    .btn1{
+        @apply text-white text-xs rounded-xl bg-[#2a3549] p-1 opacity-80 hover:opacity-100
+        cursor-default
+    }
+    .cert{
+        @apply m-2 w-96 object-contain sm:w-72
+    }
+    .grad{
+        @apply text-transparent bg-clip-text bg-gradient-to-b from-white via-gray-200 to-gray-600 text-center font-extrabold text-4xl mt-4 mb-3 
+    }
+}

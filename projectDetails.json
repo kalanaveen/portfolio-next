@@ -1,0 +1,156 @@
+  [
+    { 
+      "number":"1",
+      "image":"/images/amazon.png",
+      "title":"Amazon",
+      "href1":"https://amazon-nextjs-two.vercel.app",
+      "href2":"https://github.com/kalanaveen/amazon-nextjs",
+      "desc":"Amazon Clone created with Next.JS,Tailwind CSS,Firebase,Stripe.In this we have created home page,checkout page,succcess page,orders page.And also we used NextAUTH authentication for sign in process.Redux used for cart management ,we can add items and remove items from cart.Used stripe for checkout.Then with help of webhooks and firebase we can display our orders.Tailwind CSS used for responsiveness.",
+      "tech":["React JS","Next JS", "Redux","NextAUTH","Stripe","Firebase","Webhook","TailwindCSS"]
+    },  
+    { 
+        "number":"2",
+        "image":"/images/airbnb.png",
+        "title":"Airbnb",
+        "href1":"https://airbnb-naveen.vercel.app",
+        "href2":"https://github.com/kalanaveen/airbnb-naveen",
+        "desc":"An awesome airbnb clone created in next js.In this we have created home page and search page with date picking functionality.Also in search page we integrate mapbox. All data in search page are coming from server side rendering.We used lot of animations for great user experience .Its responsive on all devices.",
+        "tech":["React JS","Next JS", "MAPbox","TailwindCSS","React-date-range","Heroicons"]
+      },
+      { 
+        "number":"3",
+        "image":"/images/disney.png",
+        "title":"Disney",
+        "href1":"https://disney-new.vercel.app",
+        "href2":"https://github.com/kalanaveen/disney-new",
+        "desc":"Build a movie application with help of powerfull technologies like React js,Next Js,Tailwindcss. In this huge build we have created a hero page,home page,details page and also trailer popup screen. All data getting from TMDB api fetching in real time.",
+        "tech":["React JS","Next JS", "React-Carousel","TailwindCSS","React-Player","NextAUTH","Next Router"]
+      },
+      { 
+        "number":"4",
+        "image":"/images/instagram.png",
+        "title":"Instagram",
+        "href1":"https://instagram-clone-kalanaveen.vercel.app",
+        "href2":"https://github.com/kalanaveen/instagram-clone",
+        "desc":"Build a instagram clone with technoligies like Next.js,Tailwind Css,Recoil,Firebase v9,Next Auth beta version,headless ui. In this application we can upload photo ,like photo,and also comment photo.We have powerfull next auth google authentication.",
+        "tech":["React JS","Next JS", "FirebaseV9","TailwindCSS","Recoil","NextAUTH","HeadlessUI"]
+      },
+      { 
+        "number":"5",
+        "image":"/images/google.png",
+        "title":"Google",
+        "href1":"https://google-clone-roan-theta.vercel.app",
+        "href2":"https://github.com/kalanaveen/google-clone",
+        "desc":"Google clone created in Next js.It's super fast application wih server side rendering all search result coming from google api. For making it responsive we used tailwind css.Also for more than 10 resuls we used pagination.",
+        "tech":["React JS","Next JS","TailwindCSS","Heroicons"]
+      },
+      { 
+        "number":"6",
+        "image":"/images/twitter.png",
+        "title":"Twitter",
+        "href1":"https://twitter-demo-kalanaveen.vercel.app",
+        "href2":"https://github.com/kalanaveen/twitter-demo",
+        "desc":"Build a twitter clone with powerfull technoligies like Next.js,Tailwind Css,Recoil,Next Auth beta version,headless ui. In this application we can post a photo with caption and smileys,delete a photo,like a post ,comment a post also can delete a post. We have google authentication for login.",
+        "tech":["React JS","Next JS","TailwindCSS","Recoil","NextAUTH","HeadlessUI"]
+      },
+      { 
+        "number":"7",
+        "image":"/images/spotify.png",
+        "title":"Spotify",
+        "href1":"https://spotify-demo-kalanaveen.vercel.app",
+        "href2":"https://github.com/kalanaveen/spotify-demo1",
+        "desc":"Build a spotify clone with new technoligies like Next.js,Tailwind Css,Recoil,Next Auth beta version,headless ui. In this application we can search any song.Also it will show by default new releases. With help of powerfull next-auth we can login.",
+        "tech":["React JS","Next JS","TailwindCSS","Recoil","NextAUTH","HeadlessUI","spotifywebAPI"]
+      },
+      { 
+        "number":"8",
+        "image":"/images/hulu.png",
+        "title":"Hulu",
+        "href1":"https://hulu-new.vercel.app",
+        "href2":"https://github.com/kalanaveen/hulu-new",
+        "desc":"Hulu clone build with two powerfull tchnologies React js framework Next js and css framework Tailwind CSS.We used server side rendering for fetching data from tmdb api. Display of movies will change according to category.In this we used lot of animation effect.Also with help of tailwind CSS it is responsive from small devices to 4k devices.",
+        "tech":["React JS","Next JS","TailwindCSS","TMDB-api"]
+      },
+      { 
+        "number":"9",
+        "image":"/images/crypto.png",
+        "title":"CryptoCurrency",
+        "href1":"https://cryptoversenaveen.netlify.app",
+        "href2":"https://github.com/kalanaveen/cryptocurrency-app",
+        "desc":"Build a cryptocurrency application with technologies like reactjs,redux,chart js,ant design,rapid api.In this we have maintain good folder structure and sees advance react js. All data fetch from rapid api ,used multiple apis.Used ANT design for super responsiveness and beautifull design.Also used chart js for showing data in chart.",
+        "tech":["React JS","React-Redux","Ant-Design","Rapidapi","Chartjs"]
+      },
+      { 
+        "number":"10",
+        "image":"/images/news.png",
+        "title":"News",
+        "href1":"https://news-india-love.netlify.app",
+        "href2":"https://github.com/kalanaveen/news-app-ant",
+        "desc":"Build News apllication with latest technologies like reacts js,redux-toolkir,ant design and rapid api. All data fetch with help of rapid api.",
+        "tech":["React JS","React-Redux","Ant-Design","Rapidapi"]
+      },
+      { 
+        "number":"11",
+        "image":"/images/covid.png",
+        "title":"Covid India",
+        "href1":"https://covid-naveen.netlify.app",
+        "href2":"https://github.com/kalanaveen/covid-india",
+        "desc":"Build Covid india application with modern technologies likes reactjs,redux-toolkit,ant design,chartjs,rapid api. In this we fetching data from rapid api,multiple api used for getting covid data and news. State wise and district wise data fetched from api.",
+        "tech":["React JS","React-Redux","Ant-Design","Rapidapi","Chartjs"]
+      },
+      { 
+        "number":"12",
+        "image":"/images/covid1.png",
+        "title":"Covid India App",
+        "href1":"https://covid19-india-sigma.vercel.app",
+        "href2":"https://github.com/kalanaveen/covid19-india",
+        "desc":"Build a Covid19-India application with help of powerfull technologies Reactjs,Nextjs,TailwindCSs.In this all live covid data getting from external api.We can see country data,state data and districts data.Also we used animations for better user experience,it is complete responsive.",
+        "tech":["React JS","Next JS","Tailwind CSS","API"]
+      },
+      { 
+        "number":"13",
+        "image":"/images/covid tracker.png",
+        "title":"Covid Tracker",
+        "href1":"https://covid-tracker-naveen.netlify.app",
+        "href2":"https://github.com/kalanaveen/covid-tracker",
+        "desc":"An interactive covid tracker in which you can get cases of any country.It will give all details regarding,cases,recovered,deaths.We Used leaflet for map and chart-js for graph.Just click on dropdown and select whatever country you want. It is complete responsive.Used Material-Ui for beautifull design.",
+        "tech":["React JS","Leaflet Map","React-ChartJS","API","MAterial UI"]
+      },
+      { 
+        "number":"14",
+        "image":"/images/real estate.png",
+        "title":"Real Estate",
+        "href1":"https://real-estate-kalanaveen.vercel.app",
+        "href2":"https://github.com/kalanaveen/real-estate",
+        "desc":"Build a real estate application in next js.In this application all data fetch from 3rd party api. We have build home page,search functionality and product detail page.Used chakra-ui for responsiveness.",
+        "tech":["React JS","Next JS","Chakra UI","RapidAPI","Server Side Rendering","Static Site Generation"]
+      },
+      { 
+        "number":"15",
+        "image":"/images/chat.png",
+        "title":"Social Chat",
+        "href1":"https://social-chat-efc86.firebaseapp.com",
+        "href2":"https://github.com/kalanaveen/social-chat",
+        "desc":"A Social Chat application built in React (Custom Hooks, Context API), Firebase & chat engine. Built following within this application: google sign in or facebook signin. and logout function.We can create different chat rooms in which we can chat and share photos with our friends. authentication is used on all pages, which is handled by Firebase as well.",
+        "tech":["React JS","Context API","FirebaseAUTH","Chat Engine"]
+      },
+      { 
+        "number":"16",
+        "image":"/images/ecommerce.png",
+        "title":"Ecommerce",
+        "href1":"https://naveenkalashop.netlify.app",
+        "href2":"https://github.com/kalanaveen/ecommerce-product",
+        "desc":"E commerce product created using react js with fully functionality.In this we used commerce js for backend functionality and for payments we used stripe.Commerce js provide all functionality of ecommerce.We used material ui for making responsive website.",
+        "tech":["React JS","Material UI","Commerce JS","Stripe"]
+      },
+      { 
+        "number":"17",
+        "image":"/images/memory.png",
+        "title":"Memories App",
+        "href1":"https://memory-naveen.netlify.app",
+        "href2":"https://github.com/kalanaveen/memory-frontend",
+        "desc":"Build social media MERN application with help of React Js and Material ui . In this application we can manually sign in or google signin.We can upload a post ,like a post ,comment a post ,delete post.",
+        "tech":["React JS","Material UI","Redux-Thunk","JWT","Node JS","Mongodb","Express JS","JSONwebtoken"]
+      }
+]
+
