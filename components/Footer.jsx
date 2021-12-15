@@ -1,5 +1,5 @@
-import { BsTelephone } from 'react-icons/Bs';
-import { AiOutlineMail } from 'react-icons/Ai';
+import { BsTelephone } from 'react-icons/bs';
+import { AiOutlineMail } from 'react-icons/ai';
 import { AiFillGithub, AiFillLinkedin, AiFillFacebook } from 'react-icons/ai';
 
 const Footer = () => {
