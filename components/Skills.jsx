@@ -1,4 +1,4 @@
-import { SiReact,SiNextdotjs,SiNodedotjs,SiTailwindcss,SiMaterialui,SiAntdesign,SiChakraui,SiFirebase } from 'react-icons/Si';
+import { SiReact,SiNextdotjs,SiNodedotjs,SiTailwindcss,SiMaterialui,SiAntdesign,SiChakraui,SiFirebase } from 'react-icons/si';
 import SkillIcons from './SkillIcons';
 
 const Skills = ()=>{
