@@ -151,6 +151,15 @@
         "href2":"https://github.com/kalanaveen/memory-frontend",
         "desc":"Build social media MERN application with help of React Js and Material ui . In this application we can manually sign in or google signin.We can upload a post ,like a post ,comment a post ,delete post.",
         "tech":["React JS","Material UI","Redux-Thunk","JWT","Node JS","Mongodb","Express JS","JSONwebtoken"]
+      },
+      { 
+        "number":"18",
+        "image":"/images/modernblog.png",
+        "title":"Modern Blog",
+        "href1":"https://modern-blog-kalanaveen.vercel.app/",
+        "href2":"https://github.com/kalanaveen/modern-blog",
+        "desc":"Build a modern blog application with help of modern technologies like Reactjs,Nextjs. In this build created a home page and post detail page.All post fetched from GraphCMS with help of Graphql query.",
+        "tech":["React JS","Next Js","Tailwind CSS","Graphql","GraphCMS"]
       }
 ]
 
