@@ -169,6 +169,15 @@
         "href2":"https://github.com/kalanaveen/shareme-frontend",
         "desc":"Build a ShareMe application with technoligies like Next JS ,Tailwind Css and Sanity,in this application we can post a photo,comment on post and see user profile.We can also search a post.",
         "tech":["React JS","Next Js","Tailwind CSS","Sanity","Masonry Layout"]
+      },
+      { 
+        "number":"20",
+        "image":"/images/fileshare.png",
+        "title":"InShare-File Sharing",
+        "href1":"https://inshareyt.netlify.app/",
+        "href2":"https://github.com/kalanaveen/file-share-frontend",
+        "desc":"In this web application we can upload file ,download file ,send file with help of emails. Maximum file size allowed 100MB.",
+        "tech":["Html Drag And Drop","Ajax","Javascript","Node JS","MongoDB","Express JS","Multer","Nodemailer"]
       }
 ]
 
